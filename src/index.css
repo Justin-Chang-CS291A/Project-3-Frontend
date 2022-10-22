@@ -1,0 +1,12 @@
+html {
+  max-width: 100vw;
+}
+
+body {
+  margin: 0;
+  margin: 10vh;
+}
+
+.user {
+  padding-bottom: 2vh;
+}
